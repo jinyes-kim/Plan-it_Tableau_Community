@@ -11,4 +11,3 @@ tool: tableau, python, bs4, selenium
 3. Top 50 Music (Mnet)
 
 4. textmining, Apex Legend Inven bulletin board
-
