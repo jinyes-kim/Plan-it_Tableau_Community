@@ -9,7 +9,7 @@
 
 - 2 text-mining, Apex Legend inven bulletin board
 
-- 3 Top 50 Music (Mnet)
+- 3 2018 Top 50 Music (Mnet)
 
 - 4 The Correlation between Trend and the Competitiveness of College Entrance
 
@@ -26,7 +26,7 @@
 - Project Link - https://public.tableau.com/profile/.2852#!/vizhome/ApexLegendHOTkeywordinkorfeat_inven/APEXLEGEND
 
 
-## [3] Top 50 Music (Mnet)
+## [3] 2018 Top 50 Music (Mnet)
 ![m-net](https://user-images.githubusercontent.com/54028026/82015835-a71cfe00-96ba-11ea-8da4-f5aa43256d40.png)
 
 - Project Link - https://public.tableau.com/profile/.2852#!/vizhome/2018MnetTOP50_0/Mnet2018_TOP50
