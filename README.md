@@ -27,10 +27,11 @@
 
 
 ## [3] Top 50 Music (Mnet)
-![Mnet 2018_ TOP50](https://user-images.githubusercontent.com/54028026/82013759-03c9ea00-96b6-11ea-9175-a11daa062f62.png)
+![m-net](https://user-images.githubusercontent.com/54028026/82015835-a71cfe00-96ba-11ea-8da4-f5aa43256d40.png)
+
 #### https://public.tableau.com/profile/.2852#!/vizhome/2018MnetTOP50_0/Mnet2018_TOP50
 
 
 ## [4] Sky ComputerScience (competition rate for entrance exmaination)
-![SKY_ComputerScience](https://user-images.githubusercontent.com/54028026/82013696-daa95980-96b5-11ea-8ebb-ba7268ebfbe3.png)
+![sky](https://user-images.githubusercontent.com/54028026/82015841-a84e2b00-96ba-11ea-916c-390525b8cc4a.png)
 #### https://public.tableau.com/profile/.2852#!/vizhome/SKY_1/SKY
