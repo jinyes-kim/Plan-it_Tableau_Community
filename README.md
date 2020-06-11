@@ -25,7 +25,6 @@
 ## [2] text-mining, Apex Legend inven bulltetin board
 ![apex](https://user-images.githubusercontent.com/54028026/82013641-b64d7d00-96b5-11ea-803e-937dfea2c024.png)
 - Project Link - https://public.tableau.com/profile/.2852#!/vizhome/ApexLegendHOTkeywordinkorfeat_inven/APEXLEGEND
----
 
 
 --- 
