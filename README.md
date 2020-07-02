@@ -22,13 +22,13 @@
 - Project Link - https://public.tableau.com/profile/.2852#!/vizhome/_29582/sheet0
 
 --- 
-## [2] text-mining, Apex Legend inven bulltetin board
+## [2] text-mining, bulletin board of Apex Legend inven
 ![apex](https://user-images.githubusercontent.com/54028026/82013641-b64d7d00-96b5-11ea-803e-937dfea2c024.png)
 - Project Link - https://public.tableau.com/profile/.2852#!/vizhome/ApexLegendHOTkeywordinkorfeat_inven/APEXLEGEND
 
 
 --- 
-## [3] 2018 Top 50 Music (Mnet)
+## [3] 2018 Top 50 Music - Mnet
 ![m-net](https://user-images.githubusercontent.com/54028026/82016819-cddc3400-96bc-11ea-8066-93fd0660fa5a.png)
 
 - Project Link - https://public.tableau.com/profile/.2852#!/vizhome/2018MnetTOP50_0/Mnet2018_TOP50
